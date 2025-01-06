@@ -24,7 +24,7 @@
  
 <h2>🔭📈Future Projects/Goals</h2>  
 
-  -<b>AZ-104 Certification</b>
+  - <b> AZ-104 Certification </b>
   
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
