@@ -16,12 +16,12 @@
 
   - <b>Joining Red Hat Machine to Domain</b>
 
-<h2>🎉📜✨Certifications🎉📜✨</h2>
+<h2>🎉📜✨Certifications</h2>
   ✅ CompTIA SEC+
   ✅ AWS SAA (Solutions Architect Associate)
   ✅ AZ-900
 
-<h2>🔭📈Future Projects/Goals🔭📈</h2>  
+<h2>🔭📈Future Projects/Goals</h2>  
 
   -<b>AZ-104 Certification</b>
   
