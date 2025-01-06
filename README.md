@@ -17,9 +17,9 @@
   - <b>Joining Red Hat Machine to Domain</b>
 
 <h2>🎉📜✨Certifications</h2>
- - ✅ CompTIA SEC+
- - ✅ AWS SAA (Solutions Architect Associate)
- - ✅ AZ-900
+ <b>✅ CompTIA SEC+</b>
+ <b>✅ AWS SAA (Solutions Architect Associate)</b>
+ <b>✅ AZ-900</b>
 
 <h2>🔭📈Future Projects/Goals</h2>  
 
