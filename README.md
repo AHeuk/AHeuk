@@ -18,9 +18,9 @@
 
 <h2> 🎉📜✨Certifications </h2>
  
-  - ✅ I’m interested in Learning about Hybrid Cloud and Cloud Computing
-  - ✅ I’m currently learning Server and Cloud Administration
-  - ✅ I’m looking to collaborate on a Private Cloud Using Hyper-V and Windows Server 2019
+  - ✅ CompTIA SEC+
+  - ✅ AWS SAA (Solutions Architect Associate)
+  - ✅ AZ-900
  
 <h2>🔭📈Future Projects/Goals</h2>  
 
